@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&pause=1100&color=FC8901&width=435&lines=Hey%2C+I%27m+Daniel+Estok+⚡;Full-stack+AI+%7C+Cybersec+Builder"
+    src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&pause=1100&color=FC8901&width=435&lines=Hey%2C+I%27m+Daniel+Estok+⚡;Full-stack+AI+%7C+Cybersec+Builder](https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&pause=1100&color=FC8901&width=435&lines=Hey%2C+I%27m+Daniel+Estok+%E2%9A%A1;Full-stack+AI+%7C+Cybersec+Builder)"
     alt="Animated typing headline"
   >
 </h1>

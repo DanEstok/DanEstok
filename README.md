@@ -17,7 +17,7 @@
 
 <p align="center">
   Founder&nbsp;@&nbsp;<b>Spark&nbsp;Tech&nbsp;Repair</b> &nbsp;|&nbsp; Shipping AI-powered tools & luminous dashboards  
-  <br/>Turning <em>“what&nbsp;if?”</em> into production code since 2010
+  <br/>Turning <em>“what&nbsp;if?”</em> into production code since 2024
 </p>
 
 <div align="center">

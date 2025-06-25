@@ -1,37 +1,41 @@
-<!-- Banner (animated GIF or still image) -->
+<!-- ===================================================== -->
+<!-- 🚨   ANIMATED 3-D FUTURISTIC PROFILE (Spark Theme)    -->
+<!-- ===================================================== -->
+
+<!-- 1️⃣  Neon-grid banner (hero GIF) -->
 <p align="center">
-  <img src="https://YOUR_CDN/banner.gif" alt="Spark Tech Futuristic Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/DanEstok/DanEstok/main/assets/banner-holo-grid.gif"
+       alt="Futuristic neon grid flying toward horizon" width="100%">
 </p>
 
 <h1 align="center">
-  <span style="color:#007CB8">Hey, I'm</span> <span style="color:#FC8901">Daniel Estok</span> ⚡
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FC8901&width=435&lines=Hey%2C+I%27m+Daniel+Estok+⚡;Full-Stack+%E2%80%A2+AI+%E2%80%A2+Cybersec+Builder"
+       alt="Animated typing headline">
 </h1>
 
 <p align="center">
-  Builder of AI-powered tools, and founder at <b>Spark Tech Repair</b>.
-  I turn <em>“what if?”</em> into shipping code and glowing dashboards.
+  Founder&nbsp;@&nbsp;<b>Spark&nbsp;Tech&nbsp;Repair</b> &nbsp;|&nbsp; Shipping AI-powered tools & luminous dashboards  
+  <br/>Turning <em>“what&nbsp;if?”</em> into production code since 2010
 </p>
 
 <div align="center">
-  <!-- Shields.io quick facts -->
   <img src="https://img.shields.io/badge/AI%20NLP-RAG%20%7C%20LLM-%23007CB8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Stack-Python%20%26%20React-%23FC8901?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Ohio,%20USA-%23007CB8?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=DanEstok&style=for-the-badge&color=007CB8" alt="profile views"/>
 </div>
 
 ---
 
-### 🚀  What I’m Building Right Now
-| Project | Stack | Why it matters |
-|---------|-------|----------------|
-| **Jarvis 3-D Assistant** | `WebGL · LangChain · FastAPI` | Voice-activated holographic AI dashboard |
-| **ReguGuard SaaS** | `Next.js · Prisma · OpenAI` | Compliance made self-serve and smart |
-| **Lit-Fiber Cost Calculator** | `Streamlit · Pandas · PDFKit` | Turns messy cap-ex into one-click reports |
+## 🎯 &nbsp;Currently Building
+| Project | Stack | 🚀 Impact |
+|---------|-------|-----------|
+| **Jarvis&nbsp;3-D Assistant** | `WebGL · LangChain · FastAPI` | Voice-controlled holographic workspace |
+| **ReguGuard&nbsp;SaaS** | `Next.js · Prisma · OpenAI` | No-stress compliance automation |
+| **Lit-Fiber Cost Calculator** | `Streamlit · Pandas · PDFKit` | One-click cap-ex insights for ISPs |
 
 ---
 
-### 🛠️  Toolbox
-
+## 🛠 &nbsp;Toolbox
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
@@ -41,8 +45,7 @@
 
 ---
 
-### 📊  My GitHub Stats
-
+## 📊 &nbsp;GitHub Analytics
 <table align="center">
 <tr>
   <td align="center">
@@ -60,13 +63,42 @@
 
 ---
 
-### 🌐  Connect with Me
-
+## 🏆 &nbsp;Trophy Cabinet
 <p align="center">
-  <a href="https://sparktechrepair.com"><img src="https://img.shields.io/badge/Website-SparkTech-%23007CB8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:Daniel@sparktechrepair.com"><img src="https://img.shields.io/badge/Email-Send%20a%20note-%23FC8901?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/danestok/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23007CB8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/SparkTechRepair"><img src="https://img.shields.io/badge/X-Follow-%23FC8901?style=for-the-badge&logo=x&logoColor=white"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=DanEstok&theme=matrix&column=7&margin-w=10&margin-h=10">
+</p>
+
+---
+
+## 🌌 &nbsp;3-D Contribution Skyline
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanEstok/DanEstok/main/assets/skyline.gif"
+       alt="3-D GitHub skyline of contributions" width="85%">
+</p>
+
+---
+
+## 🐍 &nbsp;Grid-Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanEstok/DanEstok/output/github-contribution-grid-snake.svg" alt="snake eating contributions">
+</p>
+
+---
+
+## 🌐 &nbsp;Connect
+<p align="center">
+  <a href="https://sparktechrepair.com">
+    <img src="https://img.shields.io/badge/Website-SparkTech-%23007CB8?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="mailto:Daniel@sparktechrepair.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20note-%23FC8901?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/danestok/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%23007CB8?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/SparkTechRepair">
+    <img src="https://img.shields.io/badge/X-Follow-%23FC8901?style=for-the-badge&logo=x&logoColor=white">
+  </a>
 </p>
 
 ---

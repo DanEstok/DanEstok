@@ -46,16 +46,16 @@
 <table align="center">
 <tr>
   <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&border_radius=12&title_color=FC8901&icon_color=007CB8" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanEstok&show_icons=true&theme=react&border_radius=12&title_color=FC8901&icon_color=007CB8" height="165">
   </td>
   <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&border_radius=12&title_color=FC8901" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEstok&layout=compact&theme=react&border_radius=12&title_color=FC8901" height="165">
   </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&ring=FC8901&fire=FC8901&currStreakNum=007CB8&currStreakLabel=007CB8&sideNums=007CB8&sideLabels=FC8901&dates=BBBBBB" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanEstok&theme=react&ring=FC8901&fire=FC8901&currStreakNum=007CB8&currStreakLabel=007CB8&sideNums=007CB8&sideLabels=FC8901&dates=BBBBBB" height="150">
 </p>
 
 ---
@@ -64,9 +64,9 @@
 
 <p align="center">
   <a href="https://sparktechrepair.com"><img src="https://img.shields.io/badge/Website-SparkTech-%23007CB8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-Send%20a%20note-%23FC8901?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23007CB8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-Follow-%23FC8901?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:Daniel@sparktechrepair.com"><img src="https://img.shields.io/badge/Email-Send%20a%20note-%23FC8901?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danestok/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%23007CB8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/SparkTechRepair"><img src="https://img.shields.io/badge/X-Follow-%23FC8901?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
